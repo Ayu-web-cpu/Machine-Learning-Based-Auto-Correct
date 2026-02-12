@@ -1,0 +1,9 @@
+streamlit==1.54.0
+joblib
+numpy
+torch
+transformers
+rapidfuzz
+wordfreq
+scikit-learn
+pyspellchecker
